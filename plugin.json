@@ -1,0 +1,13 @@
+{
+  "name": "gmail-sender",
+  "version": "1.0.0",
+  "description": "Gmail API를 통해 이메일을 발송합니다. 커피챗 리마인더, 후속 연락, 네트워킹 메일 발송에 활용.",
+  "type": "skill",
+  "author": {
+    "name": "kubony",
+    "url": "https://github.com/kubony"
+  },
+  "repository": "https://github.com/kubony/claude-gmail-sender",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "gmail", "email", "sender", "automation"]
+}
